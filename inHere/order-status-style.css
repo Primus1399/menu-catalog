@@ -1,0 +1,213 @@
+.back-to-main-btn {
+    display: flex;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    font-family: 'Cabin', sans-serif;
+    font-size: 30px;
+    margin-bottom: 2rem;
+}
+.house-icon {
+    color: black;
+    height: 40px;
+    width: 40px;
+    margin-right: 1rem;
+}
+.back-to-main {
+    padding-top: 5px;
+}
+.header {
+    height: 200px;
+    display: grid;
+    place-items: center;
+}
+.inner-header {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Cabin', sans-serif;
+}
+.black-ph {
+    width: 380px;
+}
+.order-info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.order-info-order {
+    color: black;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+}
+.order-num {
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(250, 140, 22);
+}
+.order-info-price {
+    color: black;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+}
+.date-time {
+    margin-left: 5rem;
+    margin-top: 1rem;
+    font-family: 'Cabin', sans-serif;
+    font-size: x-large;
+}
+.hr-line {
+    width: 790px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.items-total-container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.items-total {
+    font-size: 40px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+.arrow-up-container {
+    padding-top: 7px;
+}
+.arrow-up {
+    height: 40px;
+    width: 40px;
+}
+.item-container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.img-qty-item {
+    display: flex;
+}
+.img-circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.item-info {
+    margin-top: 2rem;
+    margin-left: 2.5rem;
+    font-family: 'Cabin', sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.bullet-symbol {
+    color: rgb(250, 140, 22);
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.fa-tag {
+    margin-right: 10px;
+}
+.item-price {
+    display: flex;
+    margin-top: 2rem;
+    font-size: xx-large;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+}
+.tag {
+    padding-top: 3px;
+}
+.price-tag-icon {
+    height: 25px;
+    width: 25px;
+    margin-right: 0.75rem;
+}
+.order-status {
+    font-size: 40px;
+    font-family: 'Cabin', sans-serif;
+    font-weight: bolder;
+    margin-left: 5rem;
+    margin-bottom: 3rem;
+}
+.order-stat-confirmation {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 4.90rem;
+    margin-right: 5rem;
+}
+.tick-order-received {
+    display: flex;
+    font-size: xx-large;
+    letter-spacing: 5px;
+    color: rgb(250, 140, 22);
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+.check-orange {
+    height: 35px;
+    width: 35px;
+    margin-right: 1rem;
+}
+.time-order-received {
+    font-size: xx-large;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+.date-time-status-received {
+    margin-left: 5.75rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-left: 1.8rem;
+    font-family: 'Cabin', sans-serif;
+    font-size: x-large;
+    border-left: 8px dotted orange;
+    height: 150px;
+}
+.tick-order-prepping {
+    display: flex;
+    font-size: xx-large;
+    letter-spacing: 5px;
+    color: rgba(27, 27, 27, 0.5);
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+.ellipsis {
+    height: 35px;
+    width: 35px;
+    margin-right: 1rem;
+}
+.time-order-prepping {
+    font-size: xx-large;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-family: 'Cabin', sans-serif;
+    color: rgba(27, 27, 27, 0.5);
+}
+.date-time-status-prepping {
+    margin-left: 5.75rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-left: 1.8rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: x-large;
+    border-left: 8px dotted gray;
+    color: rgba(27, 27, 27, 0.5);
+    height: 150px;
+}
+.date-time-status-prepping-1 {
+    margin-left: 5.75rem;
+    margin-top: 1rem;
+    margin-bottom: 10rem;
+    padding-left: 1.8rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: x-large;
+    color: rgba(27, 27, 27, 0.5);
+}

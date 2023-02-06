@@ -1,0 +1,64 @@
+.bg-color{
+    background-color: rgb(250, 140, 22);
+}
+.over-bg {
+    position: absolute;
+    height: 110%;
+    width: 100%;
+}
+.for-bg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.placeholder {
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+}
+.placeholder-img {
+    width: 400px;
+}
+.table-number {
+    color: white;
+    letter-spacing: 30px;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 5rem;
+    margin-bottom: 23rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+.enter-name {
+    border: none;
+    font-size: 45px;
+    background-color: transparent;
+    margin-right: 7rem;
+    margin-left: 7rem;
+    font-family: 'Cabin', sans-serif;
+    padding: 1rem;
+}
+.enter-name::placeholder {
+    color: white;
+}
+.enter-name:focus {
+    outline: none;
+}
+.mid-line {
+    width: 800px;
+    text-align: center;
+    margin-bottom: 6rem;
+}
+.proceed-button {
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 40px;
+    width: 24rem;
+}
+.proceed-button:hover {
+    background-color: gray;
+    border-color: gray;
+}

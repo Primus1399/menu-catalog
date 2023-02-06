@@ -1,0 +1,84 @@
+.bg-color{
+    background-color: rgb(250, 140, 22);
+}
+.over-bg {
+    position: absolute;
+    height: 110%;
+    width: 100%;
+}
+.for-bg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.placeholder-img {
+    width: 400px;
+}
+.placeholder {
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+.table-number {
+    color: white;
+    letter-spacing: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 5rem;
+    margin-bottom: 8rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+.order-number {
+    color: white;
+    letter-spacing: 10px;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 20px;
+}
+.confirmation {
+    color: white;
+    letter-spacing: 15px;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 60px;
+}
+.date {
+    color: white;
+    font-size: 35px;
+    font-family: 'Cabin', sans-serif;    
+    margin-bottom: 60px;
+}
+.thanks {
+    color: white;
+    font-size: 35px;
+    margin-top: 4rem;
+    margin-bottom: 6rem;
+    font-family: 'Ubuntu', sans-serif;    
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+.confirmation-button {
+    background-color: black;
+    border-color: black;
+    color: white;
+    border-radius: 75px;
+    padding: 1rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+    width: 30rem;
+    text-align:center;
+    font-family: 'Cabin', sans-serif;    
+    font-size: 35px;
+}
+.confirmation-button:hover {
+    border-color: gray;
+    background-color: gray;
+}

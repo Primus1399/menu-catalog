@@ -1,0 +1,51 @@
+.bg-color{
+    background-color: rgb(250, 140, 22);
+    margin: 0px;
+}
+.over-bg {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.for-bg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fa-cube {
+    font-size: 4rem;
+}
+.placeholder {
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+}
+.placeholder-img {
+    width: 400px;
+}
+.table-number {
+    color: white;
+    letter-spacing: 30px;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 5rem;
+    margin-bottom: 16rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+.scan-qr {
+    color: white;
+    font-size: 48px;
+    margin-top: 5rem;
+    font-family: 'Cabin', sans-serif;
+}
+.fa-qrcode {
+    font-size: 20rem;
+    color: white;
+    margin-top: 2rem;
+    margin-bottom: 15rem;
+}
+.item-info {
+    padding-top: 200px;
+}
+.qr-img {
+    width: 450px;
+}
