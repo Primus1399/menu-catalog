@@ -10,9 +10,8 @@
     font-family: 'Cabin', sans-serif;
     color: white;
 }
-.fa-cube {
-    font-size: 3rem;
-    margin-right: 1rem;
+.placeholder-black-logo {
+    width: 280px;
 }
 .head-section {
     background-color: rgb(250, 140, 22);
